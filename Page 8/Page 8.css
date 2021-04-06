@@ -1,0 +1,39 @@
+.container {
+    position: relative;
+  }
+  nav {
+    border-color: turquoise;
+      border-style: inset;
+    position: absolute;
+    left: 0px;
+    width: 150px;
+  }
+  section {
+    border-style: groove;
+    /* position is static by default */
+    margin-left: 200px;
+  }
+  footer {
+    position: fixed;
+    text-align: center;
+    bottom: 0 ;
+    left: 0;
+    height: 70px;
+    background-color: rgb(252, 10, 131);
+    width: 100%;
+  }
+  body {
+    margin-bottom: 120px;
+    background-color: burlywood;
+  }
+  div{
+    background-color: rgb(255, 94, 94);
+    border-style: groove;
+  }
+  
+  
+
+h2 {
+    text-align: center;
+    border-style: solid;
+}

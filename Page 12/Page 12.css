@@ -1,0 +1,30 @@
+nav {
+    border-style: ridge;
+    float: left;
+    width: 190px;
+  }
+  section {
+      border-style: groove;
+      border-color: coral;
+    margin-left: 200px;
+  }
+
+  .hilang{
+      visibility: hidden;
+  }
+  .clearfix {
+
+    overflow: auto;
+    zoom: 1;
+  }
+  div{
+      border-style: groove;
+  }
+  body{
+    background-color: burlywood;
+}
+
+h2 {
+    text-align: center;
+    border-style: solid;
+}

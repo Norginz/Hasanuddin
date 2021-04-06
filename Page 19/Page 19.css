@@ -1,0 +1,42 @@
+h2{
+    text-align: center;
+    color: darkred;
+}
+
+.img-container2 {
+   float: left;
+    display: block;
+  }
+
+
+.img-container {
+    text-align: right;
+    display: block;
+  }
+
+  footer {
+      text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 200px;
+    background-color:burlywood;
+    width: 100%;
+  }
+  .vertical-container {
+    height: 300px;
+    display: -webkit-flex;
+    display:         flex;
+    -webkit-align-items: center;
+            align-items: center;
+    -webkit-justify-content: center;
+            justify-content: center;
+  }
+  body{
+    background-color: burlywood;
+}
+
+h2 {
+    text-align: center;
+    border-style: solid;
+}

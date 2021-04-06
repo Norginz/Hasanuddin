@@ -1,0 +1,18 @@
+
+p1 {
+    background-color: black;
+    color: blue;
+}
+p2 { 
+    border: brown;
+    color: crimson;
+}
+
+body{
+    background-color: burlywood;
+}
+
+h2 {
+    text-align: center;
+    border-style: solid;
+}

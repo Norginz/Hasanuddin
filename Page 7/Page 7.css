@@ -1,0 +1,51 @@
+.static {
+    position: static;
+  }
+  .relative1 {
+      border-style: solid;
+    position: relative;
+  }
+  .relative2 {
+     
+    position: relative;
+    top: -50px;
+    left: 30px;
+    background-color: rgb(160, 144, 253);
+    width: 500px;
+  }
+  .fixed {
+      border-style: solid;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 200px;
+    background-color: rgb(112, 91, 139);
+  }
+  .relative {
+      background-color: saddlebrown;
+    position: relative;
+    width: 600px;
+    height: 400px;
+  }
+  .absolute {
+      color: red;
+    position: absolute;
+    top: 120px;
+    right: 0;
+    width: 300px;
+    height: 200px;
+  }
+  .warna{
+    color: blue;
+  }
+  .ngumpet{
+    visibility:collapse ;
+  }
+  body{
+    background-color: burlywood;
+}
+
+h2 {
+    text-align: center;
+    border-style: solid;
+}

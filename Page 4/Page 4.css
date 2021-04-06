@@ -1,0 +1,18 @@
+#main {
+    max-width: 600px;
+    margin: 0 auto; 
+  }
+  .warna{
+    color: rgba(255, 0, 21, 0.74);
+  }
+  .warna2{
+    color: lightseagreen;
+  }
+  body{
+    background-color: burlywood;
+}
+
+h2 {
+    text-align: center;
+    border-style: solid;
+}

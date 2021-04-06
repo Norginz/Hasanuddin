@@ -1,0 +1,30 @@
+span1 {
+    display: none ;
+   
+
+}
+span2 {
+    visibility: collapse;
+}
+span3{
+    
+    visibility: hidden;
+}
+
+
+.color{
+    color: red;
+}
+
+.border{
+    border-style: dotted;
+}
+
+body{
+    background-color: burlywood;
+}
+
+h2 {
+    text-align: center;
+    border-style: solid;
+}

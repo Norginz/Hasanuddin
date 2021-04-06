@@ -1,0 +1,26 @@
+.simple {
+    border: solid;
+    width: 500px;
+    margin: 20px auto;
+  }
+  
+  .fancy {
+     border-style: solid;
+    width: 500px;
+    margin: 20px auto;
+    padding: 50px;
+    border-width: 10px;
+  }
+
+  .ngumpet{
+    display: hidden;
+  }
+
+  body{
+    background-color: burlywood;
+}
+
+h2 {
+    text-align: center;
+    border-style: solid;
+}

@@ -1,0 +1,35 @@
+@media (min-width:600px) {
+    nav {
+        border-style: ridge;
+      float: left;
+      width: 20%;
+    }
+    section {
+        border-style: ridge;
+      margin-left: 21%;
+    }
+  }
+  @media (max-width:599px) {
+    nav li {
+      display: inline;
+    }
+  }
+  .hilang{
+      visibility: hidden;
+  }
+  
+  .warna{
+    color: red;
+  }
+
+  .border {
+    border-style: groove;
+  }
+  body{
+    background-color: burlywood;
+}
+
+h2 {
+    text-align: center;
+    border-style: solid;
+}

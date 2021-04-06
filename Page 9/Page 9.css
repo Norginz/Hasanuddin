@@ -1,0 +1,17 @@
+img {
+
+    float: right;
+    margin: 0 0 1em 1em;
+  }
+  p{
+    border-style: groove;
+  }
+  
+  body{
+    background-color: burlywood;
+}
+
+h2 {
+    text-align: center;
+    border-style: solid;
+}

@@ -1,0 +1,24 @@
+div{
+  border-style: groove;
+}
+.clearfix {
+
+    overflow: auto;
+    zoom: 1;
+  }
+  img {
+    float: right;
+    border-style: solid;
+  }
+  .hilang{
+      visibility: hidden;
+  }
+ 
+  body{
+    background-color: burlywood;
+}
+
+h2 {
+    text-align: center;
+    border-style: solid;
+}

@@ -1,0 +1,38 @@
+nav {
+    border-style: solid;
+    display: inline-block;
+    vertical-align: top;
+    width: 25%;
+  }
+  .column {
+    display: inline-block;
+    vertical-align: top;
+    width: 70%;
+    
+  }
+  section{
+      border-style: ridge;
+  }
+
+  .border{
+    border-style: groove;
+  }
+
+  body{
+    text-shadow: 10px;
+    font-family: sans-serif;
+    
+   
+  }
+
+  h2{
+    border-style: solid;
+  
+  }
+  body{
+    background-color: burlywood;
+}
+
+h2 {
+    text-align: center;
+}

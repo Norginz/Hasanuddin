@@ -1,0 +1,32 @@
+.three-column {
+    padding: 1em;
+    -moz-column-count: 3;
+    -moz-column-gap: 1em;
+    -webkit-column-count: 3;
+    -webkit-column-gap: 1em;
+    column-count: 3;
+    column-gap: 1em;
+    border: solid;
+  }
+  .color1
+  {
+      color: tomato;
+  }
+  .color2{
+      color: violet;
+  }
+  .color3{
+      color: rgb(41, 41, 14);
+  }
+  .test
+  {
+      border-right: solid;
+  }
+  body{
+    background-color: burlywood;
+}
+
+h2 {
+    text-align: center;
+    border-style: solid;
+}

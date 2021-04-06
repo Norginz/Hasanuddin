@@ -1,0 +1,35 @@
+.box1 {
+    border-color: turquoise;
+    border-style: solid;
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+  }
+  .after-box {
+      border-style: solid;
+    clear: left;
+  }
+  .box2 {
+      border-color: yellowgreen;
+      border-style: solid;
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+  }
+  div{
+      text-align: center;
+  }
+  .b{
+      border-style: solid;
+  }
+ 
+  body{
+    background-color: burlywood;
+}
+
+h2 {
+    text-align: center;
+    border-style: solid;
+}
